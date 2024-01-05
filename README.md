@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/AdhnanE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eat_code_ride" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adhnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kariot" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14008268/adhnan-eriyadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13049473" height="30" width="40" /></a>
-<a href="https://instagram.com/iamadhnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eat.code.ride" height="30" width="40" /></a>
+<a href="https://twitter.com/AdhnanE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AdhnanE" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adhnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AdhnanE" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14008268/adhnan-eriyadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="AdhnanE" height="30" width="40" /></a>
+<a href="https://instagram.com/iamadhnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AdhnanE" height="30" width="40" /></a>
 
 
 </p>
